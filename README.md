@@ -1,11 +1,10 @@
 # SubscriberVisualizer
-Raspberry Pi based python tracer that visualizes new subscribers/followers
 
 BOM:
-Raspberry PI Zero
-blibkt from pimoroni
-A button
-Some form of case
+Raspberry PI Zero,
+blinkt from pimoroni,
+a button,
+some form of case,
 
 
 Goal:
